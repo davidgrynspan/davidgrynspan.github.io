@@ -10931,9 +10931,7 @@ hr.divider-light {
 
 header.masthead {
   min-height: 100vh;           
-  background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('../assets/img/pathology.jpg');
+  background-image: url('../assets/img/pathology.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;    
