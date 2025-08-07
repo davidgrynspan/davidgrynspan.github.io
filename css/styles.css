@@ -10930,16 +10930,13 @@ hr.divider-light {
 }
 
 header.masthead {
-  min-height: 100vh;               
-  display: flex;                  
-  align-items: center; 
   padding-top: 10rem;
   padding-bottom: 10rem;          
   background-image: url('../assets/img/rattlesnake-point.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;            
+  background-size: cover;           
 }
 
 header.masthead h1, header.masthead .h1 {
