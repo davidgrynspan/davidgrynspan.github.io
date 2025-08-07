@@ -10931,7 +10931,7 @@ hr.divider-light {
 
 header.masthead {
   min-height: 100vh;           
-  background-image: url('../assets/img/pathology.jpg');
+  background-image: url('../assets/img/rattlesnake-point.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;    
@@ -11120,4 +11120,26 @@ header.masthead h1, header.masthead .h1 {
  .rounded-image {
   border-radius: 15px; /* Adjust the value for the desired roundness */
   overflow: hidden; /* Ensures corners are visually clipped */
+}
+
+.collaborators {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; 
+    padding: 20px 0;
+}
+
+.collaborator-logo {
+    height: 60px; 
+    width: auto; 
+}
+
+.email-link {
+    color: #1e88e5;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.email-link:hover {
+    color: #0d47a1;
 }
