@@ -2847,7 +2847,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #65002d;
+  --bs-btn-bg: #0078b3;
   --bs-btn-border-color: #4b0122;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #4b0122;
@@ -10888,7 +10888,7 @@ hr.divider-light {
   color: var(--bs-link-color) !important;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #65002d !important
+  color: #0078b3 !important
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10896,13 +10896,13 @@ hr.divider-light {
     background-color: #fff;
   }
   #mainNav .navbar-brand {
-    color: #65002d;
+    color: #0078b3;
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: #65002d;
+    color: #0078b3;
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -10940,6 +10940,9 @@ header.masthead {
   justify-content: center;              
 }
 
+header.masthead h1, header.masthead .h1 {
+  font-size: 2.25rem;
+}
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
