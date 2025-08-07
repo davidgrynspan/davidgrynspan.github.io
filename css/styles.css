@@ -34,7 +34,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #65002d;
+  --bs-primary: #0078b3;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #65002d;
+  --bs-link-color: #0078b3;
   --bs-link-hover-color: c34e#0078b32e;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -3611,8 +3611,8 @@ textarea.form-control-lg {
   --bs-nav-link-padding-x: 1rem;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
-  --bs-nav-link-color: #65002d;
-  --bs-nav-link-hover-color: #65002d;
+  --bs-nav-link-color: #0078b3;
+  --bs-nav-link-hover-color: #0078b3;
   --bs-nav-link-disabled-color: #6c757d;
   display: flex;
   flex-wrap: wrap;
@@ -3732,9 +3732,9 @@ textarea.form-control-lg {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
   --bs-navbar-color: rgba(0, 0, 0, 0.55);
-  --bs-navbar-hover-color: #65002d;
+  --bs-navbar-hover-color: #0078b3;
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
-  --bs-navbar-active-color: #65002d;
+  --bs-navbar-active-color: #0078b3;
   --bs-navbar-brand-padding-y: 0.3125rem;
   --bs-navbar-brand-margin-end: 1rem;
   --bs-navbar-brand-font-size: 1.25rem;
@@ -10939,15 +10939,7 @@ header.masthead {
   align-items: center;  
   justify-content: center;              
 }
-header.masthead h1, header.masthead .h1 {
-  text-align: center;
-  font-size: 2.25rem;
-  color: black; 
-  background-color: white; 
-  display: inline-block; 
-  padding: 1rem 1.5rem; 
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2); 
-}
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
