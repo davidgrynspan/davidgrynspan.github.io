@@ -10933,8 +10933,8 @@ header.masthead {
   min-height: 100vh;               
   display: flex;                  
   align-items: center; 
-  padding-top: 4.5rem;
-  padding-bottom: 4.5rem;          
+  padding-top: 10rem;
+  padding-bottom: 10rem;          
   background-image: url('../assets/img/rattlesnake-point.jpg');
   background-position: center;
   background-repeat: no-repeat;
@@ -10947,8 +10947,8 @@ header.masthead h1, header.masthead .h1 {
 }
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: 4.5rem;
-    padding-bottom: 4.5rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
   }
   header.masthead p {
     font-size: 1.15rem;
