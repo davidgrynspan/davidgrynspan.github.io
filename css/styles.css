@@ -10931,7 +10931,7 @@ hr.divider-light {
 
 header.masthead {
   padding-top: 10rem;
-  padding-bottom: calc(10rem - 4.5rem);          
+  padding-bottom: 10rem;          
   background-image: url('../assets/img/rattlesnake-point.jpg');
   background-position: center;
   background-repeat: no-repeat;
@@ -10944,8 +10944,6 @@ header.masthead h1, header.masthead .h1 {
 }
 @media (min-width: 992px) {
   header.masthead {
-    height: 100vh;
-    min-height: 40rem;
     padding-top: 4.5rem;
     padding-bottom: 0;
   }
