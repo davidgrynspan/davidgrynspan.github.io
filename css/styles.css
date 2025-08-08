@@ -10934,7 +10934,7 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: 10rem;     
   background: linear-gradient(
-    to bottom, 
+    to top, 
     #65002d 0%, 
     rgb(101, 0, 45, 0) 100%
   ), 
